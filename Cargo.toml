@@ -1,0 +1,8 @@
+[package]
+name = "version-test"
+description = "a package for texting cargo version resolution"
+repository = "https://github.com/ryankurte/rust-version-test"
+version = "0.1.0"
+authors = ["Ryan Kurte <ryankurte@gmail.com>"]
+edition = "2018"
+license = "MIT"
